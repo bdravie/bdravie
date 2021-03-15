@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bradley
+- 👀 I’m interested in UI/UX Design and Front-End Developing
+- 🌱 I’m currently learning React, Javascript and advanced CSS
+- 💞️ I’m looking to collaborate on react type projects to improve my skills and gain more experience
+- 📫 How to reach me - b.dravie@gmail.com / 07827585647
